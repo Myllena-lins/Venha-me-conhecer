@@ -29,5 +29,5 @@ Tenho interesse em seguir carreira na área de Ciências de Dados, atualmente es
 Nesses cursos, estou aprendendo um pouco de Python, Banco de Dados, Power BI e Machine learning. Ademais, tenho aulas voltadas para o aprimoramento das habilidades Soft Skills.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/myllena-navarro-8a1869209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/myllena-navarro-8a1869209)
  [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myllena.lins250@gmail.com)
