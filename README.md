@@ -24,7 +24,7 @@ Estou ansiosa para explorar oportunidades que me permitam adquirir experiência 
 
 ## Área de Interesse
 
-Tenho interesse em seguir carreira na área de Ciências de Dados, atualmente estou participando de dois cursos nesse segmento, um pela ADA e outro pela Descomplica, além de realizar cursos na plataforma da DIO.
+Tenho interesse em seguir carreira na área de Ciências de Dados, atualmente estou participando de dois cursos nesse segmento, um pela ADA e outro pela Descomplica, além de realizar cursos na plataforma da DIO e da Udemy.
 
 Nesses cursos, estou aprendendo um pouco de Python, Banco de Dados, Power BI e Machine learning. Ademais, tenho aulas voltadas para o aprimoramento das habilidades Soft Skills.
 
