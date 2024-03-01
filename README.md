@@ -6,23 +6,27 @@
 
 ## Quem sou eu?
 
-Me chamo Myllena Cristiane Ribeiro Navarro Lins, tenho 25 anos e sou estudante do 3° período do curso de ADS no IFPE-Recife. Já tenho formação em Pedagogia, mas acabei me apaixonando pela tecnologia, no período da Pandemia, no qual comecei a estudar e pesquisar mais sobre a área.
+Olá! Meu nome é Myllena Navarro, tenho 25 anos e sou estudante do curso de ADS na CESAR School.
 
-Faço parte do grupo de pesquisa GPADS, no qual busca soluções com a utilização de IOT, desenvolvimento de software, entre outro, para o meio ambiente e social. Além disso, faço parte do grupo das Maratonas de Programação.
+Iniciei minha jornada profissional com uma formação em Pedagogia, mas durante a pandemia, descobri minha paixão pela tecnologia. Através de estudos e pesquisas intensivas, fiz uma transição de carreira para a área de tecnologia.
+
+Embora tenha mudado de foco profissional, não deixei minhas habilidades adquiridos na Pedagogia. Aplico tais habilidades em projetos voluntários, onde posso contribuir para a comunidade.
+
+Costumo dizer que minha formação em Pedagogia me proporcionou uma base nas habilidades de Soft Skills, enquanto minha graduação em ADS está me capacitando com habilidades de Hard Skills.
 
 ## Habilidades
 ### Básicas
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor)
-![SQL](https://icons8.com.br/icon/yAk24Bd8TOKS/sql)
-![R](https://icons8.com.br/icon/qYOYmgF9E4iO/r)
-![Power Bi](https://icons8.com.br/icon/qYfwpsRXEcpc/power-bi)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor=blue)
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=blue)
+![Power Bi](https://img.shields.io/badge/Power_Bi-000?style=for-the-badge&logo=powerbi&logoColor=yellow)
 
 ## Área de Interesse
 
-Tenho interesse em seguir carreira na área de Ciências de Dados, atualmente estou participando de dois cursos nesse segmento, um pela ADA e outro pela Descomplica, além de realizar cursos na plataforma da DIO e da Udemy.
+Estou focado em seguir uma carreira na área de Ciência de Dados. Atualmente, estou dedicando meu tempo aos cursos na plataforma da DIO, onde estou aprendendo Python e análise de dados, e na Udemy, no qual estou me aprofundando em Python e Ciência de Dados.
 
-Nesses cursos, estou aprendendo um pouco de Python, Banco de Dados, Power BI. Ademais, tenho aulas voltadas para o aprimoramento das habilidades Soft Skills.
+Além desses cursos, já concluí o curso em Banco de Dados pela Descomplica, o que me proporcionou uma sólida base nessa área fundamental para a Ciência de Dados. Também participei de um curso básico de Cientista de Dados pela ADA, onde aprimorei minhas habilidades em Python, Power BI, noções de estatística e Banco de Dados. Durante esse curso, tive a oportunidade de trabalhar em diversos projetos, os quais você pode conferir em meu repositório no GitHub.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/myllena-navarro-8a1869209)
