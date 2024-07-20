@@ -17,7 +17,6 @@ Embora tenha mudado de foco profissional, não deixei minhas habilidades adquiri
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor=blue)
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=blue)
 ![Power Bi](https://img.shields.io/badge/Power_Bi-000?style=for-the-badge&logo=powerbi&logoColor=yellow)
 
 ## Área de Interesse
