@@ -24,7 +24,7 @@ Costumo dizer que minha formação em Pedagogia me proporcionou uma base nas hab
 
 ## Área de Interesse
 
-Estou focado em seguir uma carreira na área de Ciência de Dados. Atualmente, estou dedicando meu tempo aos cursos na plataforma da DIO, onde estou aprendendo Python e análise de dados, e na Udemy, no qual estou me aprofundando em Python e Ciência de Dados.
+Estou focado em seguir uma carreira na área de Dados. Atualmente, estou dedicando meu tempo aos cursos na plataforma da DIO, onde estou aprendendo Python e análise de dados, e na Udemy, no qual estou me aprofundando em Python e Ciências de Dados.
 
 Além desses cursos, já concluí o curso em Banco de Dados pela Descomplica, o que me proporcionou uma sólida base nessa área fundamental para a Ciência de Dados. Também participei de um curso básico de Cientista de Dados pela ADA, onde aprimorei minhas habilidades em Python, Power BI, noções de estatística e Banco de Dados. Durante esse curso, tive a oportunidade de trabalhar em diversos projetos, os quais você pode conferir em meu repositório no GitHub.
 
