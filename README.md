@@ -6,13 +6,11 @@
 
 ## Quem sou eu?
 
-Olá! Meu nome é Myllena Navarro, tenho 25 anos e sou estudante do curso de ADS na CESAR School.
+Olá! Meu nome é Myllena Navarro, tenho 26 anos e sou estudante do curso de ADS na CESAR School.
 
 Iniciei minha jornada profissional com uma formação em Pedagogia, mas durante a pandemia, descobri minha paixão pela tecnologia. Através de estudos e pesquisas intensivas, fiz uma transição de carreira para a área de tecnologia.
 
-Embora tenha mudado de foco profissional, não deixei minhas habilidades adquiridos na Pedagogia. Aplico tais habilidades em projetos voluntários, onde posso contribuir para a comunidade.
-
-Costumo dizer que minha formação em Pedagogia me proporcionou uma base nas habilidades de Soft Skills, enquanto minha graduação em ADS está me capacitando com habilidades de Hard Skills.
+Embora tenha mudado de foco profissional, não deixei minhas habilidades adquiridos na Pedagogia, as aplico no desenvolvimento das Soft Skills, enquanto minha graduação em ADS está me capacitando com habilidades de Hard Skills.
 
 ## Habilidades
 ### Básicas
@@ -24,7 +22,7 @@ Costumo dizer que minha formação em Pedagogia me proporcionou uma base nas hab
 
 ## Área de Interesse
 
-Estou focado em seguir uma carreira na área de Dados. Atualmente, estou dedicando meu tempo aos cursos na plataforma da DIO, onde estou aprendendo Python e análise de dados, e na Udemy, no qual estou me aprofundando em Python e Ciências de Dados.
+Estou focado em seguir uma carreira na área de Dados. Atualmente, estou dedicando meu tempo aos cursos na plataforma da DIO e Udemy.
 
 Além desses cursos, já concluí o curso em Banco de Dados pela Descomplica, o que me proporcionou uma sólida base nessa área fundamental para a Ciência de Dados. Também participei de um curso básico de Cientista de Dados pela ADA, onde aprimorei minhas habilidades em Python, Power BI, noções de estatística e Banco de Dados. Durante esse curso, tive a oportunidade de trabalhar em diversos projetos, os quais você pode conferir em meu repositório no GitHub.
 
