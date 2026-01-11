@@ -1,32 +1,35 @@
 # Olá, seja bem-vindo(a) ao meu perfil👋
 
-🎓Cursando Análise e Desenvolvimento de Sistemas
+📊 Assistente de Dados | Data Analytics | BI  
 
-👩‍💻 Buscando minha primeira oportunidade na área de tecnologia
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – CESAR School 
 
-## Quem sou eu?
+🧠 Base sólida em Analytics com foco em evolução para **Ciência de Dados**
 
-Olá! Meu nome é Myllena Navarro, tenho 25 anos e sou estudante do curso de ADS na CESAR School.
+## 👩‍💻 Sobre mim
 
-Iniciei minha jornada profissional com uma formação em Pedagogia, mas durante a pandemia, descobri minha paixão pela tecnologia. Através de estudos e pesquisas intensivas, fiz uma transição de carreira para a área de tecnologia.
+Sou Assistente de Dados, com experiência no tratamento e análise de **bases de alta volumetria**, construção de pipelines e desenvolvimento de **dashboards e indicadores** para apoio à tomada de decisão.
 
-Embora tenha mudado de foco profissional, não deixei minhas habilidades adquiridos na Pedagogia. Aplico tais habilidades em projetos voluntários, onde posso contribuir para a comunidade.
+Iniciei minha trajetória profissional na área de Educação (Pedagogia), o que fortaleceu minhas **soft skills**, como comunicação, pensamento analítico e resolução de problemas. Durante a pandemia, realizei minha transição de carreira para tecnologia, direcionando meus estudos e experiências para a área de dados.
 
-Costumo dizer que minha formação em Pedagogia me proporcionou uma base nas habilidades de Soft Skills, enquanto minha graduação em ADS está me capacitando com habilidades de Hard Skills.
+Atualmente, atuo com **Databricks (PySpark/Python)**, **Power BI** e análise de dados, além de desenvolver projetos acadêmicos e práticos em **SQL, estatística aplicada e Ciência de Dados**, sempre com foco em **dados orientados a negócio**.
 
-## Habilidades
-### Básicas
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor=blue)
-![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=R&logoColor=blue)
-![Power Bi](https://img.shields.io/badge/Power_Bi-000?style=for-the-badge&logo=powerbi&logoColor=yellow)
+## 🧠 Habilidades Técnicas
 
-## Área de Interesse
+### 📌 Análise & Linguagens
+- Python (Pandas, NumPy, Scikit-learn – introdutório)
+- SQL (PostgreSQL / MySQL)
 
-Estou focado em seguir uma carreira na área de Ciência de Dados. Atualmente, estou dedicando meu tempo aos cursos na plataforma da DIO, onde estou aprendendo Python e análise de dados, e na Udemy, no qual estou me aprofundando em Python e Ciência de Dados.
+### 📊 Dados & BI
+- Power BI (dashboards, KPIs, relatórios)
+- Modelagem de dados (relacional e dimensional – básico/intermediário)
+- Estatística aplicada (descritiva, correlação, testes básicos)
 
-Além desses cursos, já concluí o curso em Banco de Dados pela Descomplica, o que me proporcionou uma sólida base nessa área fundamental para a Ciência de Dados. Também participei de um curso básico de Cientista de Dados pela ADA, onde aprimorei minhas habilidades em Python, Power BI, noções de estatística e Banco de Dados. Durante esse curso, tive a oportunidade de trabalhar em diversos projetos, os quais você pode conferir em meu repositório no GitHub.
+### ⚙️ Ferramentas
+- Databricks (PySpark)
+- Git & GitHub
+- Docker (ambiente para projetos acadêmicos)
+- Excel avançado
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/myllena-navarro-8a1869209)
